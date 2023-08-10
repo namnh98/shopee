@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f24f156d.css",
+    "main.js": "/static/js/main.1c1a2a9c.js",
+    "static/media/img_post-02.svg": "/static/media/img_post-02.4e75eb1ed0e4295c5770fe4219c53f4e.svg",
+    "static/media/img_post-04.svg": "/static/media/img_post-04.176f22bbd6875d5e68f7a695199a63f7.svg",
+    "static/media/img_post-03.svg": "/static/media/img_post-03.ca4d55c44b4469ba75e5cfa4f682488b.svg",
+    "static/media/img_post-01.svg": "/static/media/img_post-01.53735fb3c2a1055bba17d6c6642978b3.svg",
+    "static/media/img-01.png": "/static/media/img-01.9bfeb4a9cc0734db101a.png",
+    "static/media/img-03.png": "/static/media/img-03.03a50817509261b80b8f.png",
+    "static/media/img-05.png": "/static/media/img-05.2dc2bca523454f7ae378.png",
+    "static/media/img-02.png": "/static/media/img-02.9001f228f9fbd981e690.png",
+    "static/media/img-06.png": "/static/media/img-06.b0e685ce2f52759394df.png",
+    "static/media/img-04.png": "/static/media/img-04.e54b76d625ba5aed8bd3.png",
+    "static/media/img-07.png": "/static/media/img-07.a7192769bb8dc69e913b.png",
+    "static/media/logo-shopee.svg": "/static/media/logo-shopee.b5ff6213da1cee71f89e65d433a40a13.svg",
+    "index.html": "/index.html",
+    "main.f24f156d.css.map": "/static/css/main.f24f156d.css.map",
+    "main.1c1a2a9c.js.map": "/static/js/main.1c1a2a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f24f156d.css",
+    "static/js/main.1c1a2a9c.js"
+  ]
+}
